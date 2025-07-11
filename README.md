@@ -132,8 +132,3 @@ Large Language Models (LLMs) are powerful but limited by their static training d
 ## License
 
 MIT
-
----
-
-**Explore, experiment, and extend!**  
-This repository is designed for learning and prototyping RAG systems with modern LLM
